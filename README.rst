@@ -8,7 +8,7 @@ scgi-cgi is a SCGI application to run normal cgi applications. It doesn't
 make CGI applications faster, but it allows you to run them on a different
 host and with different user permissions (without the need for suexec).
 
-scgi-cgi is released under the `MIT license <http://git.lighttpd.net/scgi-cgi.cgi/tree/COPYING>`_
+scgi-cgi is released under the `MIT license <http://git.lighttpd.net/scgi-cgi.git/tree/COPYING>`_
 
 Usage
 -----
