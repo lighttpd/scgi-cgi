@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.63])
-AC_INIT([scgi-cgi], [0.1.0], [lighttpd@stbuehler.de])
+AC_INIT([scgi-cgi], [0.1.1], [lighttpd@stbuehler.de])
 AC_CONFIG_SRCDIR([scgi-cgi.c])
 AC_CONFIG_HEADERS([config.h])
 
